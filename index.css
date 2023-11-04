@@ -156,7 +156,7 @@
     position: absolute;
     height: 600px;
     width: 550px;
-    right: 5%;
+    right: 3%;
     bottom: 0;
     z-index: 999;
   }
@@ -164,7 +164,7 @@
     position: absolute;
     height: 550px;
     width: 550px;
-    right: 3%;
+    right: 1%;
     bottom: 0;
   }
   .icons{
